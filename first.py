@@ -29,3 +29,9 @@ print(lastName.startswith("s"))
 print(lastName.endswith("w"))
 print(lastName.startswith("h"))
 print("\n")
+
+#Practice user imput
+print(("*")*30)
+
+username = input("Enter Username: ")
+print("Your username is: " + username)
