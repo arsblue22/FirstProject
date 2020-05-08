@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Idea; Create a shopping expereince and total purchase. Chipotle
 def menu():
 
